@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'montserrat';
+    /* color: #fff; */
+}
+html, body { 
+    height: 100%;
+    width: 100%;
+}
+.intro p{
+    text-align: center;
+}
+body {
+    background-color: #fff6f6;
+    margin: 0;
+    padding: 0;
+}
+/* header {
+    background-color: #6d0ac9;
+    color: #0cce15;
+    padding: 20px;
+    text-align: center;
+} */
+header {
+    background-image: url('https://www.kindredgroup.com/globalassets/images/asset-library/news--insights/unsplash-hacking-bug-bounty.png?width=1920&format=webp&quality=78');
+    background-size: cover;
+    background-position: center;
+    color: rgb(250, 250, 250);
+    text-align: center;
+    padding: 20px 0;
+}
+header h1{
+    font-size: 60px;
+}
+.logo-left {
+    float: left;
+    margin-right: 20px;
+}
+
+.logo-right {
+    float: right;
+    margin-left: 20px;
+}
+.logo-left img{
+    margin-top: 35px;
+    height: 230px;
+    width: 230px;
+    object-fit: cover;
+}
+.logo-right img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+}
+.intro{
+    background-image: url('https://as1.ftcdn.net/v2/jpg/05/69/40/36/1000_F_569403685_wBdRDeIIg52MneGRb82bnbxtpNCKgmqS.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+}
+/* .events{
+    background-image: url('https://www.bhmpics.com/downloads/code-Wallpapers/16.thumb-1920-559128.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+} */
+.acronym {
+    font-size: 100px;
+    color: #35ae2a;
+}
+nav ul li a {
+    color: #f1df1e;
+    text-decoration: none;
+}
+.intro h2{
+    font-size: 70px;
+    margin-right: 220px;
+    text-align: center;
+}
+.intro p{
+    font-size: 20px;
+}
+.intro :hover{
+    color: chartreuse;
+}
+.events{
+    text-align: center;
+    color: #ffffff;
+}
+.events ul {
+    list-style-position: inside;
+    text-align: center;
+}
+.events h2{
+    font-size: 70px;
+    font-weight: 500;
+}
+.events h3{
+    font-size: 50px;
+}
+.events p{
+    font-size: 30px;
+}
+.events a{
+    font-size: 20px;
+}
+section {
+    background-color: #000000;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+.events ul li{
+    padding: 30px;
+    display: block;
+}
+
+footer {
+    background-color: #be1010;
+    color: #060105;
+    padding: 10px;
+    text-align: center;
+}
+.events ul li a{
+    color: aqua;
+}
+.events ul li p:hover{
+    color: #35ae2a;
+}
+.contact{
+    color: #ffffff;    
+}
+.contact h2{
+    font-size: 40px;
+}
+.contact p{
+    font-size: 17px;
+}
+.contact a{
+    font-size: 15px;
+    color: aquamarine;
+}

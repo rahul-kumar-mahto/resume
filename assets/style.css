@@ -1,0 +1,80 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    /* font-size: 56px; */
+}
+h1{
+    font-size: 56px;
+    margin: 0px;
+    padding-top: 60px;
+    padding-left: 213px;
+}
+.goo{
+    padding-left: 213px;
+}
+#ho{
+    background-color: #FFEAA4;
+    color: #1A471F;
+    height: 400px;
+    width: 1072px;
+}
+.vp{
+    height: 300px;
+    float: right;
+    object-fit: cover;
+    padding-top: 13px;
+    /* padding-left: 180px; */
+    padding-right: 150px;
+}
+h2{
+    font-size: 44px;
+    margin: 0px;
+    color: #1A471F;
+    padding-top: 40px;
+    padding-left: 78px;
+}
+#bo{
+    background-color: #C4E4E2;
+    height: 1000px;
+    width: 453px;
+    display: inline-block;
+    vertical-align: top;
+}
+.fn{
+    padding-left: 78px;
+    height: 300px;
+}
+.cu{
+    margin: 0px;
+    padding-left: 78px;
+
+}
+.du{
+    padding-left: 78px;
+}
+#hg{
+    background-color: #4BAA8E;
+    height: 1000px;
+    width: 614px;
+    display: inline-block;
+    vertical-align: top;
+}
+.container{
+    white-space: inherit;
+}
+.ene{
+    padding-top: 0px;
+    font-size: 34px;
+}
+.vcn{
+    padding-top: 40px;
+    padding-left: 60px;
+}
+.bong{
+    padding-left: 78px;
+    display: inline-block;
+    padding-top: 40px;
+}
+.tong{
+    display: inline-block;
+    padding-left: 85px;
+}
